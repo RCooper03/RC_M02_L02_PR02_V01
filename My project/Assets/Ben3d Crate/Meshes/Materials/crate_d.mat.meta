@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83775c2d11286e847abc2a5714199cb0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7548
+  packageName: Ben3d Crate
+  packageVersion: 1.1
+  assetPath: Assets/Ben3d Crate/Meshes/Materials/crate_d.mat
+  uploadId: 28665

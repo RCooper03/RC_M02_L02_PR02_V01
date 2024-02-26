@@ -131,7 +131,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 8
+  m_Radius: 20
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &5166590331345680504
 MonoBehaviour:
@@ -145,6 +145,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4625244543286d4eae1331f8e0e0fba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  patrolRoute: {fileID: 0}
+  locations: []
 --- !u!195 &7322050568493862321
 NavMeshAgent:
   m_ObjectHideFlags: 0

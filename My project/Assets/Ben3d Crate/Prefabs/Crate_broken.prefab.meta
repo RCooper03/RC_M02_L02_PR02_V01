@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8106798eddaac4749b2854630c118bbf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7548
+  packageName: Ben3d Crate
+  packageVersion: 1.1
+  assetPath: Assets/Ben3d Crate/Prefabs/Crate_broken.prefab
+  uploadId: 28665

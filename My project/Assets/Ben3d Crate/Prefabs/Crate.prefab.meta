@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 780923c3a9c2cbe4080c8c96b77cde73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7548
+  packageName: Ben3d Crate
+  packageVersion: 1.1
+  assetPath: Assets/Ben3d Crate/Prefabs/Crate.prefab
+  uploadId: 28665
